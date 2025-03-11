@@ -8,3 +8,8 @@
         * double            - 8 bytes, 15 to 16 decimals
         * char              - 2 bytes, stores a single character
         * boolean           - 1 bit, ture or false
+* Arithmetic Operators --  (+, -, *, /, %)
+* Taking input from the user
+   import java.util.Scanner;  // importing the scanner class
+   Scanner sc = new Scanner(System.in)  //creating the Scanner object
+
